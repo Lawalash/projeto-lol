@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+@import url('//db.onlinewebfonts.com/c/12420e8c141ca7c3dff41de2d59df13e?family=BeaufortforLOL-Bold');
+
 :root{
     --cor0:#c5ebd6;
     --cor1:#C28F2C;
@@ -10,7 +12,7 @@
     
     
     --font-padrao: arial, verdana, Helvetica, sans-serif;
-    --font-destaque: 'Bebas Neue', 'cursive';
+    --font-destaque: 'BeufortforLOL-Bold', 'cursive';
 }
 * {
     margin: 0px;

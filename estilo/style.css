@@ -12,7 +12,7 @@
     
     
     --font-padrao: arial, verdana, Helvetica, sans-serif;
-    --font-destaque: 'BeufortforLOL-Bold', 'cursive';
+    --font-destaque: 'BeufortforLOL-Bold',arial,verdana, 'cursive', sans-serif;
 }
 * {
     margin: 0px;
